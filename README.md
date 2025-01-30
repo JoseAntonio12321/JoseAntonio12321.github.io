@@ -1,2 +1,2 @@
-# JoseAntonio12321.github.io
+# JoseAntonio's homepage
 description: Bookmark this to keep an eye on my project updates!
